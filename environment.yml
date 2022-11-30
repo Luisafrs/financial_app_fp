@@ -1,0 +1,13 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+   - conda
+  - pandas
+  - spyder
+  - anaconda
+  - streamlit
+  - yfinance
+  - plotly
+prefix: C:\Users\lramirezsanchez\Anaconda3\envs\ind
