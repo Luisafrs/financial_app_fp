@@ -3,11 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - conda
   - matplotlib
-  - pandas
-  - spyder
-  - anaconda
   - streamlit
   - yfinance
   - plotly
