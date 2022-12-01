@@ -1,9 +1,0 @@
-name: base
-channels:
-  - conda-forge
-dependencies:
-  - matplotlib
-  - streamlit
-  - yfinance
-  - plotly
-prefix: C:\Users\lramirezsanchez\Anaconda3\envs\ind
